@@ -1,0 +1,7 @@
+{
+  "name": "FridgeMate",
+  "description": "A smart food inventory assistant that helps reduce waste, save money, and suggest recipes using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
